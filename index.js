@@ -6,7 +6,7 @@ let tasks  = require('./data');
 
 const adjustRandomTaskDate = (tasks) => {
     // Select a random interval between 1 to 5 days (converted to milliseconds)
-    const intervalInDays = Math.floor(Math.random() * 5) + 1;
+    const intervalInDays = Math.floor(Math.random() * 5) + 2;
     const interval = intervalInDays * 24 * 60 * 60 * 1000;
 
     // Select a random index within the tasks array
