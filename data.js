@@ -22,8 +22,8 @@ module.exports  =[
         "assignedUsers": [],
         "subtasks": [],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     },
     {
@@ -46,11 +46,27 @@ module.exports  =[
         "completionPecentage": 0,
         "parentTaskId": "a7d3de78-534e-4c95-ba49-bcaf94cd2bf7",
         "deletedAt": null,
-        "assignedUsers": [],
+        "assignedUsers": [
+            {
+                "taskAssignUsersId": "e9c6da24-c0a5-48c3-9d8c-086d02341bf2",
+                "user": {
+                    "userId": "5aa0c4f8-66fe-4f00-bb69-048356ba6712",
+                    "avatarImg": "https://lh3.googleusercontent.com/a/ACg8ocIhFQ5ZEO_wCzZkkAMyYp-u-ZEfP_d4yFKUSNhYzcoCB1b3jwY=s96-c",
+                    "email": "sumitpatel.fluxbyte@gmail.com",
+                    "firstName": "sumit",
+                    "lastName": "patel",
+                    "status": "ACTIVE",
+                    "deletedAt": null,
+                    "isVerified": true,
+                    "phoneNumber": "0602449193",
+                    "countryCode": "+93"
+                }
+            }
+        ],
         "subtasks": [],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     },
     {
@@ -99,8 +115,8 @@ module.exports  =[
             }
         ],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     },
     {
@@ -126,8 +142,8 @@ module.exports  =[
         "assignedUsers": [],
         "subtasks": [],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     },
     {
@@ -153,8 +169,8 @@ module.exports  =[
         "assignedUsers": [],
         "subtasks": [],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     },
     {
@@ -203,8 +219,8 @@ module.exports  =[
             }
         ],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     },
     {
@@ -227,11 +243,27 @@ module.exports  =[
         "completionPecentage": 0,
         "parentTaskId": "941e69de-124e-4805-8115-8c3c26889ea4",
         "deletedAt": null,
-        "assignedUsers": [],
+        "assignedUsers": [
+            {
+                "taskAssignUsersId": "867299f1-e5bd-42ed-b18b-4c13582c4e04",
+                "user": {
+                    "userId": "5aa0c4f8-66fe-4f00-bb69-048356ba6712",
+                    "avatarImg": "https://lh3.googleusercontent.com/a/ACg8ocIhFQ5ZEO_wCzZkkAMyYp-u-ZEfP_d4yFKUSNhYzcoCB1b3jwY=s96-c",
+                    "email": "sumitpatel.fluxbyte@gmail.com",
+                    "firstName": "sumit",
+                    "lastName": "patel",
+                    "status": "ACTIVE",
+                    "deletedAt": null,
+                    "isVerified": true,
+                    "phoneNumber": "0602449193",
+                    "countryCode": "+93"
+                }
+            }
+        ],
         "subtasks": [],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     },
     {
@@ -280,8 +312,8 @@ module.exports  =[
             }
         ],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     },
     {
@@ -353,8 +385,8 @@ module.exports  =[
             }
         ],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     },
     {
@@ -377,7 +409,23 @@ module.exports  =[
         "completionPecentage": 0,
         "parentTaskId": null,
         "deletedAt": null,
-        "assignedUsers": [],
+        "assignedUsers": [
+            {
+                "taskAssignUsersId": "d9e90ea5-a3a7-4ab4-b2a0-26772fd9928f",
+                "user": {
+                    "userId": "5aa0c4f8-66fe-4f00-bb69-048356ba6712",
+                    "avatarImg": "https://lh3.googleusercontent.com/a/ACg8ocIhFQ5ZEO_wCzZkkAMyYp-u-ZEfP_d4yFKUSNhYzcoCB1b3jwY=s96-c",
+                    "email": "sumitpatel.fluxbyte@gmail.com",
+                    "firstName": "sumit",
+                    "lastName": "patel",
+                    "status": "ACTIVE",
+                    "deletedAt": null,
+                    "isVerified": true,
+                    "phoneNumber": "0602449193",
+                    "countryCode": "+93"
+                }
+            }
+        ],
         "subtasks": [
             {
                 "taskId": "0467e6c2-42ec-4ddc-9a16-9b8cf8dadd83",
@@ -515,8 +563,8 @@ module.exports  =[
             }
         ],
         "dependencies": [],
-        "flag": "Green",
-        "delay": 0,
+        "flag": "Red",
+        "delay": 100,
         "endDate": "2024-08-13T00:00:00.000Z"
     }
 ]
