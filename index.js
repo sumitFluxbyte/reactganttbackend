@@ -41,7 +41,7 @@ app.get("/", (req, res) => res.send("Hello World!"));
 // Serve updated tasks data
 app.get("/tasks", (req, res) => {
   res.json(tasks);
-  tasks = adjustRandomTaskDate(tasks);
+  // tasks = adjustRandomTaskDate(tasks);
 });
 
 // Start server
