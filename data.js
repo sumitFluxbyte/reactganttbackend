@@ -121,7 +121,7 @@ module.exports  =[
         "ganttColor": null,
         "duration": 1,
         "completionPecentage": 0,
-        "parentTaskId": "a65802ce-2411-4023-8ca6-35cdcfa9b17a",
+        "parentTaskId":null,
         "deletedAt": null,
         "assignedUsers": [],
         "subtasks": [
